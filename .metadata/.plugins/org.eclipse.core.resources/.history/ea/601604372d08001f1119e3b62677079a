@@ -1,0 +1,4 @@
+user=Data
+password=123456789
+dburl=jdbc:mysql://127.0.0.1:3306/?user=root
+userSSL=false
